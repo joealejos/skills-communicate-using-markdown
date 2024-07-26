@@ -1,4 +1,8 @@
 # this is a header
 I'm learning markdown
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
